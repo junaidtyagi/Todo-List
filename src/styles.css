@@ -1,0 +1,37 @@
+body {
+  background-color: darkgoldenrod;
+}
+.main-div {
+  font-family: sans-serif;
+
+  text-align: center;
+}
+.child-div {
+  margin: auto;
+}
+img {
+  width: 30%;
+  margin: auto;
+}
+.each-item {
+  border: 2px solid black;
+  width: 200px;
+  margin: auto;
+  margin-top: 10px;
+  height: 40px;
+  background-color: darksalmon;
+  color: darkblue;
+}
+h3 {
+  display: inline-block;
+}
+.btn {
+  float: right;
+}
+.buton {
+  background-color: darkgray;
+  color: white;
+}
+.show-item {
+  margin-top: 10px;
+}
